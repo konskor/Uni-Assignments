@@ -1,0 +1,1 @@
+Use MySQL Workbench and create a database ( with its relations) , according to the information given.
