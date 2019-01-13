@@ -1,0 +1,9 @@
+Main : main.o classes_functions.o
+	g++ classes_functions.o main.o -o Main
+
+
+main.o : main.cpp classes.h
+	g++ -c main.cpp
+
+classes_function.o : classes_function.cpp classes.h
+	g++ -c classes_functions.cpp
