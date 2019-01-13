@@ -1,0 +1,6 @@
+S 10
+M 30
+L 50
+
+
+// Type charge(per 30 minutes)

@@ -1,0 +1,18 @@
+S 15 20 
+M 20 30 
+L 30 50
+20 
+Charges.txt
+PL_Records.txt
+Log.txt
+10 25
+
+//Type15,20,30 Capacity Cost
+
+// time_period for cost
+
+//Configuration file
+
+// PL_Records = Public_Ledger_Records
+
+//time , stattime for monitor
