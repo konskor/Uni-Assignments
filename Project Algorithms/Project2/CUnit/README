@@ -1,0 +1,4 @@
+
+
+Compile: gcc CUnit_test.c Functions.c -o testingFunctions -lcunit
+
